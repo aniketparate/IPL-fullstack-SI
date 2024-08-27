@@ -1,0 +1,6 @@
+@IplWebAPI_HostAddress = http://localhost:5131
+
+GET {{IplWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
